@@ -21,9 +21,9 @@ Without any further ado, let's begin!
 
 It might seem weird at first glance to group these two into the same category, but hopefully this will make sense.
 
-### In a Pinch: An emulator running an NES Tetris ROM.
-<details open>
-<br>
+## In a Pinch: An emulator running an NES Tetris ROM.
+<details closed>
+  <summary></summary>
 This is pretty much as basic as it gets. If you don't already know, a NES emulator is a program that lets you run NES games on a system that isn't an NES. In this case, that's probably going to be your computer, or maybe your phone.
 
 For a NES emulator, I recommend [Mesen][https://www.mesen.ca/], or if your PC isn't powerful enough to run that, [nestopia-ue](http://0ldsk00l.ca/nestopia/). Mesen is available for Windows, MacOS, or Linux, and nestopia-ue is available for Windows and Linux.
@@ -39,8 +39,9 @@ Once you've set up your emulator and loaded your (legally obtained) ROM, you're 
 That said, if you want to learn how to legally obtain a ROM, click here to go to the Down the Rabbit Hole section.
 </details>
 
-### The Essentials: A clone console running an original cartridge.
+## The Essentials: A clone console running an original cartridge.
 
+<details closed>
 If you don't know already, a clone console is basically a clone of the NES, as the name implies. 
 
 The main advantages of a clone console are that they are cheap and readily available, along with also giving an experience that's good enough when compared to an original NES. If you'd like to know more about the differences between an original NES and a clone console, click here to go to the Down the Rabbit Hole section.
@@ -60,3 +61,4 @@ This is also the only console out of the bunch that's USB powered. Micro USB tho
 
 You'll also need a copy of NES Tetris. Unfortunately, it isn't possible to get these new anymore, but it's still a fairly easy game to get secondhand on sites like eBay. 
 I don't personally know a whole lot about cartridge pricing, and it's likely that whatever I put here will become outdated immediately. That said, if you're not comfortable with the eBay price (which looks to be around $15 right now in mid-2024), shop around at places like local gaming stores. 
+</details>
