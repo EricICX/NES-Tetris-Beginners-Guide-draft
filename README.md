@@ -21,8 +21,9 @@ Without any further ado, let's begin!
 
 It might seem weird at first glance to group these two into the same category, but hopefully this will make sense.
 
-### In a Pinch: An emulator running an NES Tetris ROM.
-
+<details open>
+  <summary>>### In a Pinch: An emulator running an NES Tetris ROM.</summary>
+<br>
 This is pretty much as basic as it gets. If you don't already know, a NES emulator is a program that lets you run NES games on a system that isn't an NES. In this case, that's probably going to be your computer, or maybe your phone.
 
 For a NES emulator, I recommend [Mesen][https://www.mesen.ca/], or if your PC isn't powerful enough to run that, [nestopia-ue](http://0ldsk00l.ca/nestopia/). Mesen is available for Windows, MacOS, or Linux, and nestopia-ue is available for Windows and Linux.
@@ -36,7 +37,7 @@ Legally, I can't tell you where to get a NES Tetris ROM. But what I can tell you
 Once you've set up your emulator and loaded your (legally obtained) ROM, you're ready to move onto the next section.
 
 That said, if you want to learn how to legally obtain a ROM, click here to go to the Down the Rabbit Hole section.
-
+</details>
 ### The Essentials: A clone console running an original cartridge.
 
 If you don't know already, a clone console is basically a clone of the NES, as the name implies. 
