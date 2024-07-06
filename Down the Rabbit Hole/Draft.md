@@ -1,0 +1,52 @@
+Everything you would need to
+- Play NES Tetris
+- Record your games
+- Participate in online tournaments
+- Prepare for real life tournaments
+
+Categories:
+- Game + Gaming System
+- Controller
+- Screen
+- Recording your games
+- Webcam/Microphone
+
+3 categories for the video: 
+In a Pinch
+The Essentials
+The Works
+
+1 extra category for print:
+Down the Rabbit Hole
+
+
+Game + Gaming System
+
+In a Pinch: Emulator running a ROM of the game.
+The Essentials: Clone console running the original cartridge
+The Works: Original NES running a tetris gym cartridge or flash cartridge
+Down the Rabbit Hole: RetroUSB AVS, Mister FPGA, NES modded for RGB output, Analogue NT or similar
+
+Controller
+In-a-Pinch: Keyboard
+The Essentials: Original NES Controller
+The Works: NES Controller that's good for you
+Down the Rabbit Hole: Custom NES Controller, modding, etc
+
+Screen
+In-a-Pinch: LCD
+The Essentials: CRT TV, talk about RF only
+The Works: CRT TV that's good for you
+Down the Rabbit Hole: Sony PVM, different eras of CRTs, CRTs with video passthrough. How to get a CRT
+
+Recording your Games
+In a Pinch: OBS, or your cell phone
+The Essentials: OBS with a cheap capture card (Easycap or AV2HDMI+HDMI)
+The Works: OBS, GV-USB2, retroscaler 2x
+Down the Rabbit Hole: deep dive on different types of capture cards
+
+Webcam/Microphone
+In a Pinch: nothing
+The Essentials: cheapest stuff you can get
+The Works: Webcam and mic that's good for you
+Down the Rabbit Hole: exploring some good mic options, and different types of cameras
