@@ -156,7 +156,7 @@ That said, if you have even a little bit of money you're willing to spend, an or
 
 ## The Essentials: An original NES controller.
 
-<details open>
+<details closed>
 <summary>The gold standard.</summary>
 
 If you've got a little bit of money to spend, it's recommended that you get an original NES controller. If you play on a clone console or original NES, that's all you need.
@@ -181,7 +181,7 @@ If you'd like to know some more about buying controllers (and why knockoff contr
 
 ## The Works: An NES controller that's good for you.
 
-<details open>
+<details closed>
 <summary></summary>
 
 Ultimately, what this comes down to is finding a controller that's good for you. Depending on your needs, this might be the first one you buy, the tenth one you buy, or you might have to resort to modifying a controller to get what you're after.
